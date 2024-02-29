@@ -1,0 +1,44 @@
+p{
+    color: purple;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pt;
+}
+body{
+    background-color:pink;
+    background-image: url('../img/background_img.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+fieldset, legend {
+    border-width: 1px;
+    border-color: purple;
+    border-radius: 30px;
+}
+legend {
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+    font-size: 14pt;
+}
+/* .left {
+    float: left;
+    width: 80%; 
+    margin-left: auto;
+    margin-left: auto;
+} */
+
+/* .right {
+    float: right;
+    width: 80%; 
+    margin-right: auto;
+    margin-left: auto;
+    flex-grow: 10;
+}
+
+.center {
+    width: 100%; 
+    margin-right: auto;
+    margin-left: auto;
+} */
+

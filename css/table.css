@@ -1,0 +1,20 @@
+body{
+    background-color: pink;
+}
+
+table{
+    border: 10px;
+    margin: auto;
+}
+tr{
+    padding: 5px;
+    border: 1px solid palevioletred;
+}
+tr:hover{
+    background-color: lightcoral;
+    color: pink;
+    font-size: 20pt;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+}
